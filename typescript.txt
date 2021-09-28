@@ -1,0 +1,12 @@
+Nama : Dimas Prasetyo 
+NIM : G.231.19.0163
+Prasdimas/0163-DPO
+
+Percobaan untuk melakukan pull dan push di git dan github :
+1.bukalah terminal atau command prompt
+2.membuat direectory: 0163-DPO
+3.melakukan git init 
+4.coba membuat file .txt
+5.melakukan git add
+6.melakukan git commit -"belajar commit" 
+7.git remote add origin master..
