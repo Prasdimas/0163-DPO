@@ -10,3 +10,6 @@ Percobaan untuk melakukan pull dan push di git dan github :
 5.melakukan git add
 6.melakukan git commit -"belajar commit" 
 7.git remote add origin master..
+8. update file typescript.txt
+9. add, commit file tysecript dan git push 
+
